@@ -28,3 +28,5 @@
 <p>It takes the path to the Radio input as an argument.</p>
 <p>The clilect method will check if the song is different from the previous one and if that is true it will add it to the database.</p>
 <p>And it will return JSON formated object which contains the information about the current song as a result.</p>
+<p></p>
+<p>To pull the information for the current song the controller is using <strong>pullSong();</strong> JS function which is called on page load.</p>
