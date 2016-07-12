@@ -9,10 +9,8 @@ class RADIO_CONTROLLER {
 	/*
 	* 	__construct function.
 	*  	Purpose:
-	*  	- Creates the RA_NEWS class.
-	*  	- Enables $debug_ mode.
+	*  	- Creates the RADIO_CONTROLLER class.
 	*  	Arguments:
-	*  	- $debug: true || false. By default it is false.
 	*  	- $server_name: The name of the host server. Example: localhost
     * 	- $db_name: The name of the database that we are going to use. Example: dopamine_ra_news
     * 	- $db_user: The name of the database user. Example: root
